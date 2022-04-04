@@ -25,6 +25,7 @@ module.exports = {
         form06: 'url("../img/form-06.png")',
         form07: 'url("../img/form-07.png")',
         form08: 'url("../img/form-08.png")',
+        form15: 'url("../img/form-15.png")',
       },
     },
   },
