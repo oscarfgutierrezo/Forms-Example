@@ -22,6 +22,9 @@ module.exports = {
       backgroundImage: {
         form01: 'url("../img/form-01.png")',
         form04: 'url("../img/form-04.png")',
+        form06: 'url("../img/form-06.png")',
+        form07: 'url("../img/form-07.png")',
+        form08: 'url("../img/form-08.png")',
       },
     },
   },
